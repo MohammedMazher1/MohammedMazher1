@@ -1,6 +1,6 @@
 ### Mohammed Mazhar 
 
-- 👋 I'm a software engineer, love to work with Microsoft Stack ASP.NET and LINQ & Localization Maniac.
+- 👋 I'm a software engineer
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently learning.
 - 💬 Ask me about ASP.NET MVC, PHP LARAVEL.
