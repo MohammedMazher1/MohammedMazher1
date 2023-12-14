@@ -11,4 +11,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MohammedMazher1&theme=flat&no-frame=true&margin-w=30" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMazher1&hide_title=true&layout=compact" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedMazher1&theme=gruvbox_duo&hide_border=true)](https://github.com/hishamco)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedMazher1&theme=gruvbox_duo&hide_border=true)](https://github.com/MohammedMazher1)
