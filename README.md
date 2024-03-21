@@ -3,7 +3,7 @@
 - 👋 I'm a software engineer
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently learning.
-- 💬 Ask me about ASP.NET MVC, PHP LARAVEL.
+- 💬 Ask me about PHP LARAVEL, ASP.NET MVC,React.
 - 📫 How to reach me: INS: @m.din6y, Website: https://mohammedmazher1.github.io/aboutMe/ 
 
 <hr/>
