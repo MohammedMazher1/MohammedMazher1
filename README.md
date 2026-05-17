@@ -2,8 +2,8 @@
 
 - 👋 I'm a software engineer
 - 🏠 I live in Yemen - Mukalla.
-- 🌱 I’m currently learning.
-- 💬 Ask me about PHP LARAVEL, ASP.NET MVC,React.
+- 🌱 I currently work at Jisr-HR as a Frontend Engineer.
+- 💬 Ask me about PHP LARAVEL, React, NextJS, NestJS.
 - 📫 How to reach me: INS: @m.din6y, Website: https://mohammed-z.vercel.app/
 
 <hr/>
